@@ -1,5 +1,7 @@
 🍽️ #  Zomato EDA Case Study
 
+Kaggle link for the project : https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants/data
+
 📊 Project Overview
 This project presents an Exploratory Data Analysis (EDA) of Zomato's restaurant data to uncover insights into restaurant distribution, ratings, pricing, and customer preferences. The goal is to help restaurants, marketers, and food delivery services optimize their offerings and marketing strategies.
 
